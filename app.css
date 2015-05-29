@@ -1,0 +1,1 @@
+body{margin:15px}.cat a{outline:0}.cat a:hover .cat-img{box-shadow:none}.cat a:active{position:relative;top:2px;left:2px}.cat-img{width:100px;height:100px;border-radius:50%;box-shadow:3px 3px 5px #000}.cat-img-big{width:auto;height:auto;border-radius:inherit}.cat-row{margin:5px}.cat-row-sm{font-size:75%}.cat-row-sm .cat-img{width:50px;height:50px;box-shadow:1px 1px 2px #000}

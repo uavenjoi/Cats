@@ -1,0 +1,5 @@
+[{"name":"cat1", "src":"img/cat1.jpg", "clicks":0},
+  {"name":"cat2", "src":"img/cat2.jpg", "clicks":0},
+  {"name":"cat3", "src":"img/cat3.jpg", "clicks":0},
+  {"name":"cat4", "src":"img/cat4.jpg", "clicks":0},
+  {"name":"cat5", "src":"img/cat5.jpg", "clicks":0}]
